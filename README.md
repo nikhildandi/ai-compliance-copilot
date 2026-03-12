@@ -35,6 +35,11 @@ PyPDF
 5. When a user asks a question, relevant chunks are retrieved
 6. The AI model generates an answer based on those chunks
 
+## Demo
+<img width="2880" height="1620" alt="64661C0F-A4B7-4974-ACE5-F1104ED23A77" src="https://github.com/user-attachments/assets/5d6c7985-11a6-4c62-b60d-d2ca59d3e75c" />
+
+
+
 ## Installation
 
 Clone the repository:
