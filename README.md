@@ -40,11 +40,4 @@ PyPDF
 
 
 
-## Installation
 
-Clone the repository:
-
-```bash
-git clone https://github.com/nikhildandi/ai-compliance-copilot.git
-cd ai-compliance-copilot
-```
